@@ -1,0 +1,18 @@
+.RowDiv {
+    display: flex;
+}
+
+
+.LeftDiv {
+    width: 75vw;
+    text-align: left;
+    padding-left: 5vw;
+}
+
+
+.RightDiv {
+    width: 25vw;
+    text-align: right;
+    padding-right: 5vw;
+    font-style: italic;
+}
