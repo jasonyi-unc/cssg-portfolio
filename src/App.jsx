@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello, World!</h1>
+      <h1>[Name] Portfolio</h1>
       <h2 className="Section-title">Employment</h2>
       {jobs.map((item, index) =>
         <Block
